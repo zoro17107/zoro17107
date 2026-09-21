@@ -5,3 +5,7 @@
 ## Interest 
 - Cloud 
 - App
+
+# Tech Stack 
+- Python
+- C++
